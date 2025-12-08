@@ -3,3 +3,5 @@ This project combines the high frequency and the low frequency components of dif
 ## How to run code?
 1. Download the Grayscale_Hybrid_Image_Code.ipynb file from the <a name="Codes"></a> section in repository
 
+
+[Codes](#https://github.com/p-Dhyey/Hybrid_Multi-Frequency_Image_Illusion/tree/2bbdd6d978872ed01ba71ae3dbaecd044b09c12c/Codes)
