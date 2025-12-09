@@ -5,11 +5,10 @@ This project combines the high frequency and the low frequency components of dif
 2. Download images according to their name convention from <a href="https://github.com/p-Dhyey/Hybrid_Multi-Frequency_Image_Illusion/tree/190e9f1c41adfe635db2c2f9bbd149a816f84f2f/Test_Images">Test_Images</a> section in pair (face1, face2).
 3. Open browser -> Google Colab -> Upload the downloaded file
 4. After uploading file, once file open go to "Files" section from bar on left side.
-5. Once you open that you have to wait for sometime till it coonnects the runtime environment.
-6. Go to "Upload" option -> upload the two images downloaded before.
-7. Copy the path of Xa to low frequency image component (mentioned in code comment).
-8. Similarly, copy the path of Xb to high frequency image component(mentioned in code comment).
-9. Run the cell one by one, you will see the matrix of images of all processing step.
-10. And final hybrid illusion image in bottom right corner of matrix.
+5. Go to "Upload" option -> upload the two images downloaded before.
+6. Copy the path of face1 to low frequency image component (mentioned in code comment).
+7. Similarly, copy the path of face2 to high frequency image component(mentioned in code comment).
+8. Run the cell one by one, you will see the matrix of images of all processing step.
+9. And final hybrid illusion image in bottom right corner of matrix.
  
 
